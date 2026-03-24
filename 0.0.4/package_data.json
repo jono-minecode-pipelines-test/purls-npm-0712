@@ -1,0 +1,38 @@
+{
+    "name": "0.workspace",
+    "version": "0.0.4",
+    "scripts": {
+        "install": "scripts/install.sh",
+        "start": ".0/0.CloudIDE.Genesis/scripts/run.sh",
+        "clean": ".0/0.CloudIDE.Genesis/scripts/contract.sh"
+    },
+    "dependencies": {
+        "bash.origin": "^0.1.26"
+    },
+    "description": "0.workspace ===========",
+    "_id": "0.workspace@0.0.4",
+    "_shasum": "a7b268a4e5d44ada2162a84f53ec0c70f277eab8",
+    "_from": ".",
+    "_npmVersion": "1.4.28",
+    "_npmUser": {
+        "name": "cadorn",
+        "email": "christoph@christophdorn.com"
+    },
+    "maintainers": [
+        {
+            "name": "cadorn",
+            "email": "christoph@christophdorn.com"
+        }
+    ],
+    "dist": {
+        "shasum": "a7b268a4e5d44ada2162a84f53ec0c70f277eab8",
+        "tarball": "https://registry.npmjs.org/0.workspace/-/0.workspace-0.0.4.tgz",
+        "integrity": "sha512-/2K+LkTjgNWpDZ2WFSLxbfz07Xfgca1DfjPdvQHbmbjs3RDn4FkfLBkVotlg3CgOkR8PBJkW63INhuLQH4TmZQ==",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQC9vWnkQ5qBaKQayEozWllojYHzBKwt784yYPge54cUIQIgKRvLUTArW/NmnNyZ/7zLOmWHs25UrAQTgysIpplwz7A="
+            }
+        ]
+    }
+}

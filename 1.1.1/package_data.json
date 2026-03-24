@@ -1,0 +1,58 @@
+{
+    "name": "0-dd-trace-init",
+    "version": "1.1.1",
+    "description": "A package that initializes dd trace, (and is lexographically superior, so that it is sorted to be \"first\")",
+    "main": "index.js",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dave-inc/-dd-trace-init-first-production"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "prepublishOnly": "tsc --declaration index.ts"
+    },
+    "keywords": [
+        "dd-trace",
+        "init"
+    ],
+    "author": {
+        "name": "McKay Salisbury"
+    },
+    "license": "MIT",
+    "peerDependencies": {
+        "dd-trace": ">= 0.9.1"
+    },
+    "dependencies": {},
+    "_id": "0-dd-trace-init@1.1.1",
+    "dist": {
+        "shasum": "9f516274e305219151d5451ac373150acbe282a8",
+        "integrity": "sha512-wcef5kCX2COpc5OG+8C+dkDP50bOeglokjCqOmQH766shz9Io8UZ2r7Bjdc1o2wHE3138m99XvskMQZqOpjFUA==",
+        "tarball": "https://registry.npmjs.org/0-dd-trace-init/-/0-dd-trace-init-1.1.1.tgz",
+        "fileCount": 7,
+        "unpackedSize": 17525,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJevYmKCRA9TVsSAnZWagAAmpgP/jQQujpl3tW2Brmw+K4m\nNsBXDFXs9sVOazT1JFE8J9/tUuznp4FUtW69KMxTPg7TbEiZHpbf5BWKc91a\nYXCD/s12KL4HtG+jMyi0UuZYrCqlINkClUwZDMdb3Z4TdJYaNQ4XN/ix3XMy\nlXqlK6wINlVDDVUvjsI8LayOE6FpN/OWTxub6RnqSUPMjXxEId4W4Rv5zwUq\nkcKkddh9S/ugar7pFxq7fPnUtcjjFxt61895U6D9tbSc/lFjGMegkRPLm8Rs\nk8eWo7l+mR6uXGh4IKN+ZMGj2KDFZaeEx0b8LPg+oXxdG4E8+utomK5Hv4b1\nyOU+0qjQrjaMNnIJuN719LB4lotUzN99Cl2AQKD6JwBV19Sg8YtV/DZ+0E9O\nmNayX314NDl6gnWJHEYUgNdCwyT7vJ+jwEmW3hMq+Ken6QTFGvKgjX7MER/D\nZS9jsx/4TgTK3wBp1X9HqieHpw8/zX8VlUMrqkLw1tULLxlYhsBvFULj/8k8\nav1gLaMtZse950gzj9ooqV3F3i4OrF4uXN25j56tWrB30bT7uQHilfO0AOJK\ne8xC8lgDkLHNN+XUZNaWpLgdkCcJWv5k78MwptvQSHWX0NPxqPPGQ6gVpdC9\n+bP4OwUp4mxMR5F6fpAUOu9eA1YPSQrxiwoJu3XQzJgTW0sYBOn8ViXe4w0A\nlNux\r\n=Uy2z\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIGUmxMjLEie9o+SHYJkkgrzo80aUWZ7G10Ecdtj430HKAiBj7U21xuHAFzVg3pocoNmkTVzJ/mM3FeZzxNGJWyuOOg=="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "mckaysalisbury",
+            "email": "mckaysalisbury@hotmail.com"
+        }
+    ],
+    "_npmUser": {
+        "name": "mckaysalisbury",
+        "email": "mckaysalisbury@hotmail.com"
+    },
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0-dd-trace-init_1.1.1_1589479817872_0.6757637510324044"
+    },
+    "_hasShrinkwrap": false
+}

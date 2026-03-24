@@ -1,0 +1,45 @@
+{
+    "name": "0.workspace",
+    "version": "0.0.14",
+    "config": {
+        "Z0_REPOSITORY_URL": "git://github.com/LogicCores/0.git",
+        "Z0_REPOSITORY_COMMIT_ISH": "v0.0.6"
+    },
+    "scripts": {
+        "install": "scripts/expand.sh",
+        "start": ".0/0.CloudIDE.Genesis/scripts/run.sh",
+        "dev": ".0/0.CloudIDE.Genesis/scripts/dev.sh",
+        "deploy": "scripts/deploy.sh",
+        "publish": ".0/0.CloudIDE.Genesis/scripts/publish.sh",
+        "clean": ".0/0.CloudIDE.Genesis/scripts/contract.sh"
+    },
+    "dependencies": {
+        "bash.origin": "^0.1.26"
+    },
+    "description": "0.workspace ===========",
+    "_id": "0.workspace@0.0.14",
+    "_shasum": "8ebb455f8b3a597a6278fdebea014b36f0722f87",
+    "_from": ".",
+    "_npmVersion": "1.4.28",
+    "_npmUser": {
+        "name": "cadorn",
+        "email": "christoph@christophdorn.com"
+    },
+    "maintainers": [
+        {
+            "name": "cadorn",
+            "email": "christoph@christophdorn.com"
+        }
+    ],
+    "dist": {
+        "shasum": "8ebb455f8b3a597a6278fdebea014b36f0722f87",
+        "tarball": "https://registry.npmjs.org/0.workspace/-/0.workspace-0.0.14.tgz",
+        "integrity": "sha512-nF514miXUOYSK7aBAMBvtI02xVrDOkiDHJAW5jT5YkhmsVboAYPLiu81NtLwYgrjYS8r1J6JUmPkpwPhnJWlXg==",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQC8k2BvdBUTldSG8kROi21h8u5lqq/ghmKBmVvmWaVC2wIhANLWiSNVV9bu6053uiVMAdssP9DEtaRM4nK9I6pXNpnx"
+            }
+        ]
+    }
+}
