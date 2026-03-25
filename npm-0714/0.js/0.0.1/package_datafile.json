@@ -1,0 +1,44 @@
+{
+    "name": "0.js",
+    "version": "0.0.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+        "name": "zhongzhi",
+        "email": "zhong.zhi@163.com"
+    },
+    "license": "ISC",
+    "_id": "0.js@0.0.1",
+    "_shasum": "80641cb3bf1e04ca9142932580eea203265984bf",
+    "_from": ".",
+    "_npmVersion": "3.10.5",
+    "_nodeVersion": "4.1.2",
+    "_npmUser": {
+        "name": "zhongzhi",
+        "email": "zhong.zhi@163.com"
+    },
+    "dist": {
+        "shasum": "80641cb3bf1e04ca9142932580eea203265984bf",
+        "tarball": "https://registry.npmjs.org/0.js/-/0.js-0.0.1.tgz",
+        "integrity": "sha512-/6shBXepg4E56HaAVu7rlQ4gz5d9UnUBSRHZd9upCWzLxGD1ErsT4cWXcNLYIj6ynFAIKxypDRIt9ajtMVPU7g==",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQDaoo0FOKHMXS8keOW5s6t7n9QvxKvx6O5LCv7HWoNHgQIgMwX10bI4cDdEci9XR2E+VtyxGIM/BmOmjzK8D1HOBU4="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "zhongzhi",
+            "email": "zhong.zhi@163.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "packages-16-east.internal.npmjs.com",
+        "tmp": "tmp/0.js-0.0.1.tgz_1475912024632_0.9257839233614504"
+    }
+}
