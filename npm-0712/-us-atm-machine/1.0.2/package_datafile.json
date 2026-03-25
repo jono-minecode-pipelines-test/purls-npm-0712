@@ -1,0 +1,56 @@
+{
+    "name": "-us-atm-machine",
+    "version": "1.0.2",
+    "description": "Atm Machine",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "-us-atm-machine": "main.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+        "name": "Usman"
+    },
+    "license": "ISC",
+    "dependencies": {
+        "inquirer": "^9.2.16"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7"
+    },
+    "_id": "-us-atm-machine@1.0.2",
+    "gitHead": "c98348008b1072c22d465c6779acff8af228536f",
+    "_nodeVersion": "20.11.1",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-2JEwtFhXsCtBcp9aSY1pvayjNQgZjouVp/Mm4K4HV3q5Xi3sEn/j02whi/FqTjSGJb3+uBvZdP3gRx0kMOhmFw==",
+        "shasum": "9f6bb398b70f894f49fd0482883a7375fb222c0d",
+        "tarball": "https://registry.npmjs.org/-us-atm-machine/-/-us-atm-machine-1.0.2.tgz",
+        "fileCount": 5,
+        "unpackedSize": 15699,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQDtPT1h9tua8x0DFSpp/S3WKuAl+k6mmTyPdhQuxP7/AwIgREEgiFGRjGgoCpIF0Uw700R2bNj6TFpDfiGHjycTgJc="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "usmanbhai23",
+        "email": "Zeshanusman56@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "usmanbhai23",
+            "email": "Zeshanusman56@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/-us-atm-machine_1.0.2_1713014328436_0.9297818530478996"
+    },
+    "_hasShrinkwrap": false
+}
